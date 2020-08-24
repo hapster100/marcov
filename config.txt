@@ -1,0 +1,45 @@
+AUTHOR 
+Kir Bylychyov
+FRAGMENTS
+./texts/kb/1.txt
+./texts/kb/2.txt
+./texts/kb/3.txt
+./texts/kb/4.txt
+./texts/kb/5.txt
+./texts/kb/6.txt
+TEST
+./texts/kb/test.txt
+
+AUTHOR
+Nikolai Vasilievich Gogol
+FRAGMENTS
+./texts/gogo/1.txt
+./texts/gogo/2.txt
+./texts/gogo/3.txt
+./texts/gogo/4.txt
+./texts/gogo/5.txt
+./texts/gogo/6.txt
+TEST
+./texts/gogo/test.txt
+
+AUTHOR
+Vladimir Nabokov
+FRAGMENTS
+./texts/nobo/1.txt
+./texts/nobo/2.txt
+./texts/nobo/3.txt
+./texts/nobo/4.txt
+./texts/nobo/5.txt
+./texts/nobo/6.txt
+TEST
+./texts/nobo/test.txt
+
+AUTHOR
+Mikhail Bulgakov
+FRAGMENTS
+./texts/bulgacov/1.txt
+./texts/bulgacov/2.txt
+./texts/bulgacov/3.txt
+./texts/bulgacov/4.txt
+TEST
+./texts/bulgacov/test.txt

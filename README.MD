@@ -35,11 +35,11 @@ Authors:\
 2 Nikolai Vasilievich Gogol\
 3 Vladimir Nabokov\
 Ranks:\
- №   0   1   2   3\
- 0   0   2   3   1\
- 1   1   0   3   2\
- 2   3   1   0   2\
- 3   2   1   3   0
+ N  0  1  2  3\
+ 0  0  2  3  1\
+ 1  1  0  3  2\
+ 2  3  1  0  2\
+ 3  2  1  3  0
 
 Each row of the table shows how much the test fragment resembles the author's works from the column. The higher the value, the less similar they are.
 

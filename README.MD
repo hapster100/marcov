@@ -12,34 +12,34 @@ The config file consists of blocks, each of which represents the author.
 
 Block example:
 
-AUTHOR
-FirstName LastName
-FRAGMENTS
-path_to_texts/text1.txt
-path_to_texts/text2.txt
-path_to_texts/text3.txt
-TEST
+AUTHOR__
+FirstName LastName__
+FRAGMENTS__
+path_to_texts/text1.txt__
+path_to_texts/text2.txt__
+path_to_texts/text3.txt__
+TEST__
 path_to_test_fragment/test.txt
 
-AUTHOR: author name
-FRAGMENTS: list of absolute or relative pathes to author works
-TEST: absolute or relative path to author test text fragment
+AUTHOR: author name__
+FRAGMENTS: list of absolute or relative pathes to author works__
+TEST: absolute or relative path to author test text fragment__
 
 ## Explanation of results
 
 Result example:
 
-Authors:
-0 Kir Bylychyov
-1 Mikhail Bulgakov
-2 Nikolai Vasilievich Gogol
-3 Vladimir Nabokov
-Ranks:
- №   0   1   2   3
- 0   0   2   3   1
- 1   1   0   3   2
- 2   3   1   0   2
- 3   2   1   3   0
+Authors:__
+0 Kir Bylychyov__
+1 Mikhail Bulgakov__
+2 Nikolai Vasilievich Gogol__
+3 Vladimir Nabokov__
+Ranks:__
+ №   0   1   2   3__
+ 0   0   2   3   1__
+ 1   1   0   3   2__
+ 2   3   1   0   2__
+ 3   2   1   3   0__
 
 Each row of the table shows how much the test fragment resembles the author's works from the column. The higher the value, the less similar they are.
 
